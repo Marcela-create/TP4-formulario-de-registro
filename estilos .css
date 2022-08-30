@@ -1,0 +1,134 @@
+body {
+    background: #d8eec3;
+  }
+
+header{
+    background: #0d0c0a;
+    text-decoration-color: white;
+}
+h1{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h2{
+    text-align: center;
+}
+.sector_noticias{
+    display: flex;
+    justify-content: space-around;
+}
+.titulos{
+    display: inline-block;
+    justify-content: center;
+    width: 50%;
+    text-align: justify;
+    line-height: 1.5; 
+    margin: 20px;
+   
+}
+
+h3{
+   
+    margin-left: 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    color: rgb(9, 26, 9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+h5{
+    color:white;
+   text-align: center;
+   font-style: italic;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    
+}
+.link{
+    float: left;
+    background-color: #5f5e5c;
+    margin: 3px;
+    
+}
+.form-register{
+    block-size: inline;
+
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: x-small;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.receta{
+    background-color: #757270;
+    color: white;
+    text-decoration: none;
+    font-size: x-small;
+    display: inline-block;
+    padding: 5px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.map{
+    float: left;
+    margin: 3px; 
+}
+.table{
+    
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.alto{
+    height: 80%;
+}
+.fa-facebook {
+    color: rgb(59, 91, 152);
+  
+  }
+.fa-twitter{
+    color: aqua;
+   
+}
+.fa-instagram{
+    background: radial-gradient(#e03b1e, #f5e531);
+   
+}
+.fa-linkedin{
+    color:blue;
+    
+}    
+.iconos{
+    margin-top: 0px;
+    margin-left: 450px;
+} 
+.fa-apple {
+    background-color: #e03b1e;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+textarea{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+    
+
